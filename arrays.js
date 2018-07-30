@@ -25,13 +25,3 @@ function accessElementInArray(array, index) {
 function destructivelyRemoveElementFromBeginningOfArray(array) {
   // TODO
 }
-
-function destructivelyRemoveElementFromBeginningOfArray(array) {
-  //TODO
-}
-
-function destructivelyRemoveElementFromBeginningOfArray(array) {
-  //TODO
-}
-
-function 
