@@ -40,3 +40,6 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
   array;
 }
 
+function destructivelyRemoveElementFromBeginningOfArray(array) {
+  return array.slice(array)
+}
